@@ -1,10 +1,10 @@
 /**
- * There are TWO programming errors in the code below stopping the password 
- * from happening.  Fix these two bugs to get the correct password.
+ * There are THREE programming errors in the code below stopping the password 
+ * from happening.  Fix these three bugs to get the correct password.
  * 
  */
 
-import React, {useState, useEffect} from 'react';
+import React, {useState, useEffect} from 'react';
 import type {Node} from 'react';
 import {
   SafeAreaView,
